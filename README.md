@@ -22,6 +22,6 @@ Contact me at **niroulasanjaya42@gmail.com**
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanjayaniroula11&show_icons=true&locale=en&layout=compact" alt="sanjayaniroula11" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanjayaniroula11&show_icons=true&locale=en" alt="sanjayaniroula11" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanjayaniroula11&" alt="sanjayaniroula11" /></p>
