@@ -1,13 +1,13 @@
-<h1 align="left" font-size='2rem'>I'm Sanjaya Niroula</h1>
+<h1 align="left" font-size='2rem'>I'm SANJAYA NIROULA</h1>
 <h3 align="left" >FRONTEND DEVELOPER</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjayaniroula11&label=Profile%20views&color=0e75b6&style=flat" alt="sanjayaniroula11" /> </p>
 
 <p align="left"> <a href="https://twitter.com/sanjayaniroula3" target="blank"><img src="https://img.shields.io/twitter/follow/sanjayaniroula3?logo=twitter&style=for-the-badge" alt="sanjayaniroula3" /></a> </p>
 
-- 🌱 I’m currently learning **MERN**
+I’m currently learning **MERN**
 
-- Contact me at **niroulasanjaya42@gmail.com**
+Contact me at **niroulasanjaya42@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
