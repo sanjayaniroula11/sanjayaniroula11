@@ -7,7 +7,7 @@
 
 Specializing JAVASCRIPT
 
-✉
+<h2>✉</h2>
 
 <defs>
 </defs>
