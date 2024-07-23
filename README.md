@@ -1,13 +1,13 @@
 <h1 align="left" font-size='2rem'>SANJAYA NIROULA</h1>
-<h3 align="left" >FRONTEND DEVELOPER</h3>
+<h3 align="left" >In case you are wondering, I CODE.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjayaniroula11&label=Profile%20views&color=0e75b6&style=flat" alt="sanjayaniroula11" /> </p>
 
 <p align="left"> <a href="https://twitter.com/sanjayaniroula3" target="blank"><img src="https://img.shields.io/twitter/follow/sanjayaniroula3?logo=twitter&style=for-the-badge" alt="sanjayaniroula3" /></a> </p>
 
-I’m currently learning **MERN**
+Specializing JAVASCRIPT
 
-Contact me at **niroulasanjaya42@gmail.com**
+<img src="https://c0.klipartz.com/pngpicture/105/439/gratis-png-ilustracion-del-icono-del-mensaje-en-blanco-y-azul-correo-electronico-del-simbolo-de-los-iconos-de-la-computadora-bandeja-de-entrada-del-mensaje-por-gmail-sobre-thumbnail.png"> niroulasanjaya42@gmail.com
 
 <h3 align="left">Reach out to me at </h3>
 <p align="left">
