@@ -1,4 +1,4 @@
-<h1 align="left" font-size='2rem'>I'm SANJAYA NIROULA</h1>
+<h1 align="left" font-size='2rem'>SANJAYA NIROULA</h1>
 <h3 align="left" >FRONTEND DEVELOPER</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjayaniroula11&label=Profile%20views&color=0e75b6&style=flat" alt="sanjayaniroula11" /> </p>
